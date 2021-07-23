@@ -15,7 +15,7 @@ gradle-app.setting
 
 Server/Debug
 Server/Release
-Client/app
+Client/app/build
 
 Client/*.iml
 Client/.gradle
